@@ -1,0 +1,23 @@
+body{
+font-family: Arial;
+margin:20px;
+background:#e9ecef;
+}
+
+h1{
+color:blue;
+}
+
+.course-row{
+margin-bottom:10px;
+}
+
+table{
+border-collapse:collapse;
+margin-top:20px;
+}
+
+table,th,td{
+border:1px solid #ccc;
+padding:8px;
+}
